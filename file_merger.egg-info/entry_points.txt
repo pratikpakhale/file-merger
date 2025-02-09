@@ -1,2 +1,0 @@
-[console_scripts]
-merge-files = file_merger.cli:main
