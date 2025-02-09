@@ -15,11 +15,7 @@ A command-line tool that merges multiple files matching a pattern into a single 
 
 ```bash
 # Clone the repository
-git clone https://github.com/pratikpakhale/file-merger.git
-cd file-merger
-
-# Install the package
-pip install -e .
+pip install git+https://github.com/pratikpakhale/file-merger
 ```
 ## Usage
 
